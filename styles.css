@@ -1,0 +1,37 @@
+#midbox {
+    margin: auto;
+    width: 70%;
+    border: 0px solid green;
+    padding: 0px;
+    text-align: center;
+  }
+
+#bottombox {
+    padding-top: 150px;
+}
+
+#counter1 {
+    text-align: left;
+}
+
+#counter2 {
+    text-align: right;
+}
+
+.column {
+    padding: 10px;
+}
+
+.col {
+    height: 500px;
+}
+
+h1 {
+    font-family: 'Sofia'; 
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    color:black; 
+    font-size:300%
+}
+
